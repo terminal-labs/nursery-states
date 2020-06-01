@@ -1,3 +1,1 @@
-## License
-
-MIT (See LICENSE file).
+file layout experiments
